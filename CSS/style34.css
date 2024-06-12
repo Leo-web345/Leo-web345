@@ -1,0 +1,136 @@
+
+
+@charset "utf-8";
+
+*{					/* Bildschirm reset*/
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+#header{
+    width:900px;
+    height:100px;
+    background-color:black;
+    display:flex;
+}
+#gmx{
+    width:100px;
+    height:60px;
+    background-color:white;
+    margin-left:20px;
+    margin-top:20px;
+}
+#suche{
+    width:150px;
+    height:60px;
+    background-color:white;
+    margin-left:90px;
+    margin-top:20px;
+}
+#suche p{
+	font-size:25px;
+}
+#gmx p{
+	font-size:25px;
+}
+#hilfe{
+    width:50px;
+    height:60px;
+    background-color:white;
+    margin-left:100px;
+    margin-top:20px;
+}
+#bild img{
+	width:100px;
+	height:70px;
+}
+#mail{
+    width:150px;
+    height:60px;
+    background-color:white;
+    margin-left:120px;
+    margin-top:20px;
+}
+#header2{
+    width:900px;
+    height:50px;
+    background-color:grey;
+    display:flex;
+}
+#menu{
+    width:50px;
+    height:30px;
+    background-color:black;
+    margin-left:20px;
+    margin-top:10px;
+}
+#e-mail{
+    width:100px;
+    height:30px;
+    background-color:black;
+    margin-left:30px;
+    margin-top:10px;
+}
+#mobilfunk{
+    width:100px;
+    height:30px;
+    background-color:black;
+    margin-left:40px;
+    margin-top:10px;
+}
+#strom{
+    width:100px;
+    height:30px;
+    background-color:black;
+    margin-left:50px;
+    margin-top:10px;
+}
+#lotto{
+    width:100px;
+    height:30px;
+    background-color:black;
+    margin-left:60px;
+    margin-top:10px;
+}
+#vorteil{
+    width:100px;
+    height:30px;
+    background-color:black;
+    margin-left:70px;
+    margin-top:10px;
+}
+#anzeigen{
+    width:900px;
+    height:500px;
+    background-color:black;
+    display:flex;
+}
+#bild{
+    width:100px;
+    height:70px;
+    background-color:green;
+    margin-left:40px;
+    margin-top:10px;
+}
+#bild1{
+    width:100px;
+    height:70px;
+    background-color:green;
+    margin-left:-100px;
+    margin-top:90px;
+}
+#bild2{
+    width:100px;
+    height:70px;
+    background-color:green;
+    margin-left:-100px;
+    margin-top:170px;
+}
+#bild3{
+    width:100px;
+    height:70px;
+    background-color:green;
+    margin-left:-100px;
+    margin-top:170px;
+}
